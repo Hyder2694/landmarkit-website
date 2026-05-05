@@ -84,8 +84,9 @@ a {
 }
 
 .logo img {
-  width: 245px;
+  width: 300px;
   height: auto;
+  display: block;
 }
 
 .nav-links {
@@ -470,10 +471,10 @@ h1 {
 }
 
 .footer-logo img {
-  width: 260px;
-  background: #fff;
-  border-radius: 12px;
-  padding: 8px;
+  width: 265px;
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
   margin-bottom: 14px;
 }
 
@@ -625,7 +626,7 @@ h1 {
   }
 
   .logo img {
-    width: 210px;
+    width: 255px;
   }
 
   .nav-links {
